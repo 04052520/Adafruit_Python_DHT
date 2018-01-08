@@ -9,8 +9,8 @@ GPIO.setwarnings(False)
 
 # change this to the values from MCS web console
 DEVICE_INFO = {
-    'device_id' : 'DAqhMYX0',
-    'device_key' : 'IhJObwSOKijxDXYU'
+    'device_id' : 'Dx4s2IhO',
+    'device_key' : '4VcVnfhzKwpBv0bt'
 }
 
 # change 'INFO' to 'WARNING' to filter info messages
